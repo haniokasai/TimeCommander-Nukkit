@@ -1,0 +1,12 @@
+# Config file for TimeCommander by LDX;
+# haniokasai create for nukkit.
+# List of commands for the plugin to execute at the given times;
+# Command: Command to execute;
+# Time: Amount of time in minutes between command executions;
+Commands:
+  - Command1: say I made my server awesome with TimeCommander!
+    Time1: 5
+  - Command2: say LDX is awesome!
+    Time2: 10
+  - Command3: reload
+    Time3: 1440
