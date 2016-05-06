@@ -1,6 +1,6 @@
 name: TimeCommander
 main: com.haniokasai.nukkit.TimeCommander.Main
-version: 0.0.1
+version: 1.0.0
 author: haniokasai
 api: ["1.0.0"]
 description: TimeCommander https://forums.pocketmine.net/plugins/timecommander.768/
